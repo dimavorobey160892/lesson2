@@ -1,0 +1,5 @@
+D:\Study in beetroot.academy\Lesson2\Урок\DateTime\obj\Debug\net7.0\DateTime.csproj.AssemblyReference.cache
+D:\Study in beetroot.academy\Lesson2\Урок\DateTime\obj\Debug\net7.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study in beetroot.academy\Lesson2\Урок\DateTime\obj\Debug\net7.0\DateTime.AssemblyInfoInputs.cache
+D:\Study in beetroot.academy\Lesson2\Урок\DateTime\obj\Debug\net7.0\DateTime.AssemblyInfo.cs
+D:\Study in beetroot.academy\Lesson2\Урок\DateTime\obj\Debug\net7.0\DateTime.csproj.CoreCompileInputs.cache

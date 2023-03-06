@@ -1,0 +1,15 @@
+D:\Study in beetroot.academy\Lesson2\Урок\Lesson2\obj\Debug\net7.0\Lesson2.csproj.AssemblyReference.cache
+D:\Study in beetroot.academy\Lesson2\Урок\Lesson2\obj\Debug\net7.0\Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study in beetroot.academy\Lesson2\Урок\Lesson2\obj\Debug\net7.0\Lesson2.AssemblyInfoInputs.cache
+D:\Study in beetroot.academy\Lesson2\Урок\Lesson2\obj\Debug\net7.0\Lesson2.AssemblyInfo.cs
+D:\Study in beetroot.academy\Lesson2\Урок\Lesson2\obj\Debug\net7.0\Lesson2.csproj.CoreCompileInputs.cache
+D:\Study in beetroot.academy\Lesson2\Урок\Lesson2\bin\Debug\net7.0\Lesson2.exe
+D:\Study in beetroot.academy\Lesson2\Урок\Lesson2\bin\Debug\net7.0\Lesson2.deps.json
+D:\Study in beetroot.academy\Lesson2\Урок\Lesson2\bin\Debug\net7.0\Lesson2.runtimeconfig.json
+D:\Study in beetroot.academy\Lesson2\Урок\Lesson2\bin\Debug\net7.0\Lesson2.dll
+D:\Study in beetroot.academy\Lesson2\Урок\Lesson2\bin\Debug\net7.0\Lesson2.pdb
+D:\Study in beetroot.academy\Lesson2\Урок\Lesson2\obj\Debug\net7.0\Lesson2.dll
+D:\Study in beetroot.academy\Lesson2\Урок\Lesson2\obj\Debug\net7.0\refint\Lesson2.dll
+D:\Study in beetroot.academy\Lesson2\Урок\Lesson2\obj\Debug\net7.0\Lesson2.pdb
+D:\Study in beetroot.academy\Lesson2\Урок\Lesson2\obj\Debug\net7.0\Lesson2.genruntimeconfig.cache
+D:\Study in beetroot.academy\Lesson2\Урок\Lesson2\obj\Debug\net7.0\ref\Lesson2.dll
